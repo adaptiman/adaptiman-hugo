@@ -26,6 +26,7 @@ image = "headers/bubbles-wide.jpg"
 caption = "Bubbles :smile:"
 
 +++
+Welcome to the TactileTTS Study Page!
 
 This is an introduction to TactileTTS, aniOS app written by David Sweeney that will be used to collect research data for my dissertation.
 

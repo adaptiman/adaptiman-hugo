@@ -1,4 +1,5 @@
 #ignore public_html directory
 public/
+*.sh
 servehugo.sh
 pushtopeople.sh
