@@ -2,7 +2,7 @@
 # Date this page was created.
 date = "2017-03-08"
 # Project title.
-title = "Tactile TTS"
+title = "TactileTTS"
 
 # Project summary to display on homepage.
 summary = "Landing page for the TactileTTS project, which is a research project supporting my dissertation."
@@ -21,18 +21,34 @@ external_link = ""
 math = false
 
 # Optional featured image (relative to `static/img/` folder).
-[header]
-image = "headers/bubbles-wide.jpg"
-caption = "Bubbles :smile:"
+# [header]
+# image = "headers/bubbles-wide.jpg"
+# caption = "Bubbles :smile:"
 
 +++
-Welcome to the TactileTTS Study Page!
+## Welcome to the TactileTTS Study Page!
 
-This is an introduction to TactileTTS, aniOS app written by David Sweeney that will be used to collect research data for my dissertation.
+To join the study, you must meet the following qualifications:
+
+1. You must be at least 18 years of age.
+2. You must have an Apple mobile device such as an iPhone or an iPad.
+3. You must install the TactileTTS app on your phone and use it to participate in the study.
+
+## For More Information:
+
+David Sweeney is the study researcher. You can contact him by emailing [sweeney@tamu.edu](mailto:sweeney@tamu.edu) or calling (979) 458-9201. 
+
+## For Non-Apple Participants
+
+If you don't have an Apple iOS device such as an iPhone or iPad, you can visit the following link to get an audio copy of the study text that you can use for your own study purposes. 
+
+## Informed Consent
+
+[A copy of the the Informed Consent document can be found here](http://people.tamu.edu/~adaptiman/files/TactileTTS_Informed_Consent.pdf).
+## About TactileTTS
 
 TactileTTS is an iOS app that can be used to listen to audio texts such as excerpts from textbooks. The app allows the user to control the navigation of audio texts using swipe and tap gestures. Currently, the app can navigate by sentence and paragraph, and pause the text.
 
 The app also has the ability to send navigation information back to the researcher so that participants that use the app can contribute to the research.
 
 TactileTTS is designed to examine the effects of navigation on the comprehension of audio texts.
-
