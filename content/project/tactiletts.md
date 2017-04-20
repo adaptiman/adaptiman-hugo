@@ -36,11 +36,11 @@ To join the study, you must meet the following qualifications:
 
 ## For More Information:
 
-David Sweeney is the study researcher. You can contact him by emailing [sweeney@tamu.edu](mailto:sweeney@tamu.edu) or calling (979) 458-9201. 
+David Sweeney is the study researcher. You can contact him by emailing [sweeney@tamu.edu](mailto:sweeney@tamu.edu) or calling (979) 492-9598. 
 
 ## For Non-Apple Participants
 
-If you don't have an Apple iOS device such as an iPhone or iPad, you can visit the following link to get an audio copy of the study text that you can use for your own study purposes. 
+If you don't have an Apple iOS device such as an iPhone or iPad, you can [visit this link](http://people.tamu.edu/~adaptiman/files/Chap11-segment.mp3) to get an audio copy of the study text that you can use for your own study purposes. Optionally, you can participate in the study by contacting David Sweeney and requesting a loan of an Apple mobile device.
 
 ## Informed Consent
 
@@ -52,3 +52,5 @@ TactileTTS is an iOS app that can be used to listen to audio texts such as excer
 The app also has the ability to send navigation information back to the researcher so that participants that use the app can contribute to the research.
 
 TactileTTS is designed to examine the effects of navigation on the comprehension of audio texts.
+
+Participants who complete the study have the option of entering a drawing for one of two $100 gift cards to be given away at the end of the study.
