@@ -32,15 +32,15 @@ To join the study, you must meet the following qualifications:
 
 1. You must be at least 18 years of age.
 2. You must have an Apple mobile device such as an iPhone or an iPad.
-3. You must install the TactileTTS app on your phone and use it to participate in the study.
+3. You must [install the TactileTTS app on your phone or iPad](http://itunes.com/apps/TactileTTS) and use it to participate in the study.
 
 ## For More Information:
 
 David Sweeney is the study researcher. You can contact him by emailing [sweeney@tamu.edu](mailto:sweeney@tamu.edu) or calling (979) 492-9598. 
 
-## For Non-Apple Participants
+## For Non-Apple Owners
 
-If you don't have an Apple iOS device such as an iPhone or iPad, you can [visit this link](http://people.tamu.edu/~adaptiman/files/Chap11-segment.mp3) to get an audio copy of the study text that you can use for your own study purposes. Optionally, you can participate in the study by contacting David Sweeney and requesting a loan of an Apple mobile device.
+If you don't have an Apple iOS device such as an iPhone or iPad, you can [visit this link](http://people.tamu.edu/~adaptiman/files/Chap11-segment.mp3) to get an audio copy of the study text that you can use for your own study purposes. Optionally, if you are a student at Texas A&M University in College Station, Texas, you can participate in the study by contacting David Sweeney and requesting a loan of an Apple mobile device.
 
 ## Informed Consent
 
