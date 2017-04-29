@@ -45,6 +45,9 @@ If you don't have an Apple iOS device such as an iPhone or iPad, you can [visit 
 ## Informed Consent
 
 [A copy of the the Informed Consent document can be found here](http://people.tamu.edu/~adaptiman/files/TactileTTS_Informed_Consent.pdf).
+
+[A copy of the the Institutional Review Board's Study Approval can be found here](http://people.tamu.edu/~adaptiman/files/IRB-Approval.pdf).
+
 ## About TactileTTS
 
 TactileTTS is an iOS app that can be used to listen to audio texts such as excerpts from textbooks. The app allows the user to control the navigation of audio texts using swipe and tap gestures. Currently, the app can navigate by sentence and paragraph, and pause the text.
