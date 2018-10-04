@@ -19,9 +19,9 @@ weight = 1
 
 # List your qualifications (such as academic degrees).
 [[education.courses]]
-  course = "PhD in Educational Technology (ABD)"
+  course = "PhD in Educational Technology"
   institution = "Texas A&M University University"
-  year = 2017
+  year = 2018
 
 [[education.courses]]
   course = "MA Counseling"
@@ -32,9 +32,9 @@ weight = 1
   course = "BS in Biology"
   institution = "Texas A&M University"
   year = 1988
- 
+
 +++
 
 # Biography
 
-David Sweeney is Director for Information Technology - Division of Student Affairs at Texas A&M University. His research interests include audio learning, educational affordance design, project management and leadership.
+David Sweeney is Director for Information Technology - Division of Student Affairs at Texas A&M University. His research interests include audio learning, educational affordance design, project management, and leadership.
