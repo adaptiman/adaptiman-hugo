@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Dissertation on Adaptiman</title>
+    <link>http://people.tamu.edu/~adaptiman/tags/dissertation/</link>
+    <description>Recent content in Dissertation on Adaptiman</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2017 David Sean Sweeney</copyright>
+    <lastBuildDate>Wed, 08 Mar 2017 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://people.tamu.edu/~adaptiman/tags/dissertation/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>TactileTTS</title>
+      <link>http://people.tamu.edu/~adaptiman/project/tactiletts/</link>
+      <pubDate>Wed, 08 Mar 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://people.tamu.edu/~adaptiman/project/tactiletts/</guid>
+      <description>Welcome to the TactileTTS Study Page! To join the study, you must meet the following qualifications:
+ You must be at least 18 years of age. You must have an Apple mobile device such as an iPhone or an iPad. You must install the TactileTTS app on your phone or iPad and use it to participate in the study.  For More Information: David Sweeney is the study researcher. You can contact him by emailing sweeney@tamu.</description>
+    </item>
+    
+  </channel>
+</rss>
