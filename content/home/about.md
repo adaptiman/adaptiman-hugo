@@ -13,6 +13,7 @@ weight = 1
 [interests]
   interests = [
     "Audio Learning",
+    "DevOps",
     "Information Technology Management",
     "Leadership"
   ]
