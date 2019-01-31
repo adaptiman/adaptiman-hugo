@@ -2,86 +2,86 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Homes on Adaptiman</title>
-    <link>http://people.tamu.edu/~adaptiman/home/</link>
+    <link>https://adaptiman.github.io/adaptiman-hugo/home/</link>
     <description>Recent content in Homes on Adaptiman</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2017 David Sean Sweeney</copyright>
     <lastBuildDate>Wed, 20 Apr 2016 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="http://people.tamu.edu/~adaptiman/home/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://adaptiman.github.io/adaptiman-hugo/home/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title></title>
-      <link>http://people.tamu.edu/~adaptiman/home/about/</link>
+      <link>https://adaptiman.github.io/adaptiman-hugo/home/about/</link>
       <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
       
-      <guid>http://people.tamu.edu/~adaptiman/home/about/</guid>
+      <guid>https://adaptiman.github.io/adaptiman-hugo/home/about/</guid>
       <description>Biography David Sweeney is Director for Information Technology - Division of Student Affairs at Texas A&amp;amp;M University. His research interests include audio learning, educational affordance design, project management, and leadership.</description>
     </item>
     
     <item>
       <title>Selected Publications</title>
-      <link>http://people.tamu.edu/~adaptiman/home/publications_selected/</link>
+      <link>https://adaptiman.github.io/adaptiman-hugo/home/publications_selected/</link>
       <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
       
-      <guid>http://people.tamu.edu/~adaptiman/home/publications_selected/</guid>
+      <guid>https://adaptiman.github.io/adaptiman-hugo/home/publications_selected/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Recent Publications</title>
-      <link>http://people.tamu.edu/~adaptiman/home/publications/</link>
+      <link>https://adaptiman.github.io/adaptiman-hugo/home/publications/</link>
       <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
       
-      <guid>http://people.tamu.edu/~adaptiman/home/publications/</guid>
+      <guid>https://adaptiman.github.io/adaptiman-hugo/home/publications/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Recent &amp; Upcoming Talks</title>
-      <link>http://people.tamu.edu/~adaptiman/home/talks/</link>
+      <link>https://adaptiman.github.io/adaptiman-hugo/home/talks/</link>
       <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
       
-      <guid>http://people.tamu.edu/~adaptiman/home/talks/</guid>
+      <guid>https://adaptiman.github.io/adaptiman-hugo/home/talks/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Recent Posts</title>
-      <link>http://people.tamu.edu/~adaptiman/home/posts/</link>
+      <link>https://adaptiman.github.io/adaptiman-hugo/home/posts/</link>
       <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
       
-      <guid>http://people.tamu.edu/~adaptiman/home/posts/</guid>
+      <guid>https://adaptiman.github.io/adaptiman-hugo/home/posts/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Projects</title>
-      <link>http://people.tamu.edu/~adaptiman/home/projects/</link>
+      <link>https://adaptiman.github.io/adaptiman-hugo/home/projects/</link>
       <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
       
-      <guid>http://people.tamu.edu/~adaptiman/home/projects/</guid>
+      <guid>https://adaptiman.github.io/adaptiman-hugo/home/projects/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Teaching</title>
-      <link>http://people.tamu.edu/~adaptiman/home/teaching/</link>
+      <link>https://adaptiman.github.io/adaptiman-hugo/home/teaching/</link>
       <pubDate>Wed, 08 Mar 2017 00:00:00 +0000</pubDate>
       
-      <guid>http://people.tamu.edu/~adaptiman/home/teaching/</guid>
+      <guid>https://adaptiman.github.io/adaptiman-hugo/home/teaching/</guid>
       <description>I am an assistant instructor for the following courses in the College of Education and Human Resource Development at Texas A&amp;amp;M University:
  EHRD477: Project Management for Organizations TCMG412: Contemporary Issues in Technology Management: DevOps  </description>
     </item>
     
     <item>
       <title>Contact</title>
-      <link>http://people.tamu.edu/~adaptiman/home/contact/</link>
+      <link>https://adaptiman.github.io/adaptiman-hugo/home/contact/</link>
       <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
       
-      <guid>http://people.tamu.edu/~adaptiman/home/contact/</guid>
+      <guid>https://adaptiman.github.io/adaptiman-hugo/home/contact/</guid>
       <description></description>
     </item>
     
