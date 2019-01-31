@@ -1,4 +1,4 @@
-baseurl = "http://people.tamu.edu/~adaptiman/"
+baseurl = "https://adaptiman.github.io/adaptiman-hugo/"
 title = "Adaptiman"
 copyright = "&copy; 2017 David Sean Sweeney"
 theme = "academic"
